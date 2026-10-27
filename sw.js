@@ -1,7 +1,7 @@
-// SwimDeck service worker: lets the installed app start and run without a network.
+// Relay service worker: lets the installed app start and run without a network.
 // Pages: network first, cached shell as fallback. Assets: cache first (Vite file names are content-hashed).
 // Bump VERSION to drop old caches after a release.
-const VERSION = 'swimdeck-v2'
+const VERSION = 'relay-v3'
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './apple-touch-icon.png', './favicon.png',
   './fonts/archivo.woff2', './fonts/instrument-sans.woff2', './fonts/jetbrains-mono.woff2']
 

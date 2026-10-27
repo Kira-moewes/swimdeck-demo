@@ -1,6 +1,6 @@
 {
-  "name": "SwimDeck",
-  "short_name": "SwimDeck",
+  "name": "Relay",
+  "short_name": "Relay",
   "description": "Schwimmtraining planen, Wellness und Anwesenheit erfassen, Rennen analysieren.",
   "lang": "de",
   "start_url": "./",
